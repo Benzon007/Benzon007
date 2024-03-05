@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a content producer and full-stack developer creating my own little <br>piece of the digital world at a time. <br>Every coding project is created from the ground up, <br>starting with planning and designing and ending with using <br>code to solve practical problems. 
+I'm a computer science student trying to create my own little <br>piece of the digital world at a time. <br>Every coding project is created from the ground up, <br>starting with planning and designing and ending with using <br>code to solve practical problems. 
 
 
 ## 🌐 Socials:
